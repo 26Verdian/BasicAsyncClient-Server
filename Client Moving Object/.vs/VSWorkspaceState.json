@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SocketClientMovingObject",
+    "\\SocketClientMovingObject\\bin",
+    "\\SocketClientMovingObject\\obj",
+    "\\SocketClientMovingObject\\obj\\Debug",
+    "\\SocketClientMovingObject\\obj\\Debug\\net8.0-windows",
+    "\\SocketClientMovingObject\\obj\\Release",
+    "\\SocketClientMovingObject\\obj\\Release\\net8.0-windows"
+  ],
+  "SelectedNode": "\\SocketClientMovingObject\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

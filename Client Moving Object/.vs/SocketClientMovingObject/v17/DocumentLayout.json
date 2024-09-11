@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arya\\Downloads\\Compressed\\NetworkProgramming-master\\NetworkProgramming-master\\SocketClientMovingObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arya\\Downloads\\Compressed\\NetworkProgramming-master\\NetworkProgramming-master\\SocketClientMovingObject\\SocketClientMovingObject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SocketClientMovingObject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arya\\Downloads\\Compressed\\NetworkProgramming-master\\NetworkProgramming-master\\SocketClientMovingObject\\SocketClientMovingObject\\SocketClientMovingObject.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SocketClientMovingObject\\SocketClientMovingObject.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arya\\Downloads\\Compressed\\NetworkProgramming-master\\NetworkProgramming-master\\SocketClientMovingObject\\SocketClientMovingObject\\SocketClientMovingObject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SocketClientMovingObject\\SocketClientMovingObject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arya\\Downloads\\Compressed\\NetworkProgramming-master\\NetworkProgramming-master\\SocketClientMovingObject\\socketclientmovingobject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:socketclientmovingobject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocketClientMovingObject.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Arya\\Downloads\\Compressed\\NetworkProgramming-master\\NetworkProgramming-master\\SocketClientMovingObject\\SocketClientMovingObject\\SocketClientMovingObject.csproj.user",
+              "RelativeDocumentMoniker": "SocketClientMovingObject\\SocketClientMovingObject.csproj.user",
+              "ToolTip": "C:\\Users\\Arya\\Downloads\\Compressed\\NetworkProgramming-master\\NetworkProgramming-master\\SocketClientMovingObject\\SocketClientMovingObject\\SocketClientMovingObject.csproj.user",
+              "RelativeToolTip": "SocketClientMovingObject\\SocketClientMovingObject.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-09-10T16:19:10.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocketClientMovingObject.csproj",
+              "DocumentMoniker": "C:\\Users\\Arya\\Downloads\\Compressed\\NetworkProgramming-master\\NetworkProgramming-master\\SocketClientMovingObject\\SocketClientMovingObject\\SocketClientMovingObject.csproj",
+              "RelativeDocumentMoniker": "SocketClientMovingObject\\SocketClientMovingObject.csproj",
+              "ToolTip": "C:\\Users\\Arya\\Downloads\\Compressed\\NetworkProgramming-master\\NetworkProgramming-master\\SocketClientMovingObject\\SocketClientMovingObject\\SocketClientMovingObject.csproj",
+              "RelativeToolTip": "SocketClientMovingObject\\SocketClientMovingObject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T16:19:01.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arya\\Downloads\\Compressed\\NetworkProgramming-master\\NetworkProgramming-master\\SocketClientMovingObject\\SocketClientMovingObject\\Program.cs",
+              "RelativeDocumentMoniker": "SocketClientMovingObject\\Program.cs",
+              "ToolTip": "C:\\Users\\Arya\\Downloads\\Compressed\\NetworkProgramming-master\\NetworkProgramming-master\\SocketClientMovingObject\\SocketClientMovingObject\\Program.cs",
+              "RelativeToolTip": "SocketClientMovingObject\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:53:24.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arya\\Downloads\\Compressed\\NetworkProgramming-master\\NetworkProgramming-master\\SocketClientMovingObject\\SocketClientMovingObject\\Form1.cs",
+              "RelativeDocumentMoniker": "SocketClientMovingObject\\Form1.cs",
+              "ToolTip": "C:\\Users\\Arya\\source\\repos\\SocketClientMovingObject\\SocketClientMovingObject\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\SocketClientMovingObject\\SocketClientMovingObject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:53:04.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
